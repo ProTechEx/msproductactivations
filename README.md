@@ -20,8 +20,7 @@ Activations Scripts for Microsoft Products
 
 <table><tbody><tr><td>Products</td><td>Direct Links</td></tr><tr><td>Microsoft Office 365 Home Premium</td><td><a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/O365HomePremRetail.img">Download</a></td></tr><tr><td>Microsoft Microsoft Office 365 Business</td><td><a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/O365BusinessRetail.img">Download</a></td></tr><tr><td>Microsoft Office 365 Professional Plus</td><td><a href="https://officecdn.microsoft.com/db/492350F6-3A01-4F97-B9C0-C7C6DDF67D60/media/en-US/O365ProPlusRetail.img">Download</a></td></tr></tbody></table>
 
-#   
-Installation and Activation
+#   Installation and Activation
 
 1.  Simply download your desired MS Office image from the below links.
 2.  Download this git as Zip like in the below screenshot. 
